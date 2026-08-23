@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "该配合你演出的我视而不见",
+    "author": "踭屄噐",
+    "time": "2026年08月24日05时35分23秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+  "description": "穆西亚拉连场热身赛晕倒",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.jnlxt.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+    "description": "内容页的详细描述，可包含www.blog.jnlxt.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "橫抐牽"
+    },
+    "datePublished": "2026年08月24日05时35分23秒",
+    "dateModified": "2026年08月24日05时35分23秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "巴厘岛 | 总有一个假日，要属于bali",
+      "url": "http://www.blog.jnlxt.cn/Article/details/765833.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/350891.sHtML"
+    },
+{
+      "platform": "400 余款 App、SDK 被处置处罚，网信办严打涉信息泄露等违法犯罪行为",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/135165.sHtML"
+    },
+{
+      "platform": "邀请网红参加奢华品牌活动，OpenAI营销引争议",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/614015.sHtML"
+    },
+{
+      "platform": "升学宴就是陋习，为何很多省份都搞这个？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/523556.sHtML"
+    },
+{
+      "platform": "这求生欲，推开导致民警牺牲了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/696375.sHtML"
+    },
+{
+      "platform": "金山云 2026 财年第二财季归母亏损 9307.8 万元，同比亏损收窄 79.65%",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/643761.sHtML"
+    },
+{
+      "platform": "绥化市征集王甜甜犯罪线索",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/686584.sHtML"
+    },
+{
+      "platform": "马斯克遭遇“黑色七月”，个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/600270.sHtML"
+    },
+{
+      "platform": "王力宏现身宇树答谢宴，坐1号桌",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/649505.sHtML"
+    },
+    {
+      "platform": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/633838.sHtML"
+    },
+{
+      "platform": "闪充丝路，智行万里——比亚迪护航海上新丝路",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/115910.sHtML"
+    },
+{
+      "platform": "紫牛头条｜女孩下海遭海蜇蜇伤进ICU，母亲称5米外救生员迟迟未施救；景区工作人员：可能未做相关培训",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/517926.sHtML"
+    },
+{
+      "platform": "老人别把“没力气”当正常衰老",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/840816.sHtML"
+    },
+{
+      "platform": "三亚看海品海鲜，享受阳光与美食",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/223863.sHtML"
+    },
+{
+      "platform": "刚刚，GPT-6代号再泄露！或将周四见",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/012712.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/296315.sHtML"
+    },
+{
+      "platform": "财晓得｜市值3417亿元，宇树撑得起吗？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/835221.sHtML"
+    },
+{
+      "platform": "网站升级了，我却有点舍不得",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/659440.sHtML"
+    },
+{
+      "platform": "深度学习实战-基于Resnet50的极端天气物体探测识别模型",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/368335.sHtML"
+    },
+    {
+      "platform": "华系适合年轻人的车来了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/453852.sHtML"
+    },
+{
+      "platform": "人形机器人举重怎么判",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/924913.sHtML"
+    },
+{
+      "platform": "12台大疆运动相机随火箭上天",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/141878.sHtML"
+    },
+{
+      "platform": "突发！OpenAI停止强化学习训练两周",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/423921.sHtML"
+    },
+{
+      "platform": "千万别用手拍，最近很多人家里有！深圳曾有一男子被迫摘除眼球，“第二天就失明”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/603319.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/614365.sHtML"
+    },
+{
+      "platform": "中国西电 2026 年半年度归母净利润 6.88 亿元，同比增长 15.03%",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/055804.sHtML"
+    },
+{
+      "platform": "升学宴女儿墙垮塌村民发声",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/060729.sHtML"
+    },
+{
+      "platform": "统统删除！不再做付费软件的奴隶",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/254611.sHtML"
+    },
+{
+      "platform": "七夕不用来了因为我的登来了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/938008.sHtML"
+    },
+    {
+      "platform": "量大腿能知道自己有没有糖尿病吗",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/515459.sHtML"
+    },
+{
+      "platform": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto?js...",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/577403.sHtML"
+    },
+{
+      "platform": "网传迪丽热巴陈飞宇恋爱依据",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/593232.sHtML"
+    },
+{
+      "platform": "台湾火箭试射失败坠毁被嘲正常发挥",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/073962.sHtML"
+    },
+{
+      "platform": "8月19日下午国乒最新消息：2好1坏消息，王曼昱，陈幸同，王艺迪",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/064673.sHtML"
+    },
+{
+      "platform": "二次元的七夕大作战",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/458119.sHtML"
+    },
+{
+      "platform": "HWG！国米3500万欧拿下琼斯，英超“三斯”齐聚梅阿查掀蓝黑风暴",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/379243.sHtML"
+    },
+{
+      "platform": "【绝望女神/一千关注A站独家MMD翻唱】【偶像】",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/916637.sHtML"
+    },
+{
+      "platform": "预售43.98万起，享界G9静态评测首发，以科技豪华注入硬派内核",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/843882.sHtML"
+    },
+{
+      "platform": "今年的夏天像是一场梦，不知不觉就到秋天了。",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/717215.sHtML"
+    },
+    {
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/174383.sHtML"
+    },
+{
+      "platform": "榜一大哥打赏千万后要求陪睡",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/256420.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 发布后，我没急着跑 Demo，先把 '.agents/' 翻了一遍",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/178568.sHtML"
+    },
+{
+      "platform": "台军试射火箭偏轨自毁",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/273756.sHtML"
+    },
+{
+      "platform": "博格巴巅峰身价1亿如今剩250万",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/227640.sHtML"
+    },
+{
+      "platform": "交通运输部规划约6万公里“三环四横五纵”精品自驾旅游公路；商务部等推动新能源汽车、绿色智能家电下乡",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/431621.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/088699.sHtML"
+    },
+{
+      "platform": "咖啡厅出片技巧之静物篇",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/098883.sHtML"
+    },
+{
+      "platform": "一天回到解放前，玩尼尕爹！",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/264539.sHtML"
+    },
+{
+      "platform": "36岁老酒鬼喝早酒的快乐",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/159244.sHtML"
+    },
+    {
+      "platform": "中方回应马来西亚总理涉台表态",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/506887.sHtML"
+    },
+{
+      "platform": "越南印度纷纷发钱催生",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/697703.sHtML"
+    },
+{
+      "platform": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/028288.sHtML"
+    },
+{
+      "platform": "ACM MM'26 | 浙大开源PhyEdit：单图编辑+精准3D物体操作",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/424537.sHtML"
+    },
+{
+      "platform": "我老公精力旺盛得吓人，一天只睡三个小时，体能恢复的也特别快",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/716894.sHtML"
+    },
+{
+      "platform": "绿色版图片转ICO/PNG图标小工具（软件更新）",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/769377.sHtML"
+    },
+{
+      "platform": "买票占座放零食 这座位该让吗",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/411121.sHtML"
+    },
+{
+      "platform": "第七届中非媒体合作论坛明日开幕",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/640773.sHtML"
+    },
+{
+      "platform": "三个维度解读前7月经济成绩单",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/624872.sHtML"
+    },
+{
+      "platform": "日本外务省回应美国制裁赤根智子：深表遗憾",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/700355.sHtML"
+    },
+    {
+      "platform": "外国佬来了也得盖肚脐眼??",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/220096.sHtML"
+    },
+{
+      "platform": "定性了！中国打破几十年惯例，正式对靖国神社改了称呼，还原真相",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/670406.sHtML"
+    },
+{
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/944256.sHtML"
+    },
+{
+      "platform": "即使 Agent 被劫持，也拿不到私钥：一种零信任 MCP 执行架构",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/692974.sHtML"
+    },
+{
+      "platform": "1883年、法国著名时装设计师、香奈儿品牌创始人加布里埃·香奈儿出生",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/518425.sHtML"
+    },
+{
+      "platform": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/196071.sHtML"
+    },
+{
+      "platform": "日本福岛第22轮核污染水排海结束，本轮排放约7888吨；八国外长谴责以色列拒接加沙和平计划",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/833555.sHtML"
+    },
+{
+      "platform": "AI Agent 都在疯狂加功能，它说：我全砍了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/234663.sHtML"
+    },
+{
+      "platform": "赛力斯上半年营收574.93亿元",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/607457.sHtML"
+    },
+{
+      "platform": "具身智能9家“大厂派系”融资PK，最强“厂牌”不是字节、百度，也不是大疆",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/433416.sHtML"
+    },
+    {
+      "platform": "氪星晚报｜台积电先进封装CoWoS产能供不应求，订单爆满；小米新一代人形机器人剧透：双足、1.7米左右、全身66个自由度；《全民医疗保障“十五五”规划》发布",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/570562.sHtML"
+    },
+{
+      "platform": "观点｜武磊球衣引发的不该是恐惧，热爱不应裹挟戾气",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/918351.sHtML"
+    },
+{
+      "platform": "闭门、举牌、真话，这场路演有点不一样",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/604774.sHtML"
+    },
+{
+      "platform": "每体：加维拒绝了加盟曼联的可能，他决定留在巴萨",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/445905.sHtML"
+    },
+{
+      "platform": "全网寻找“李春”：我们的淘宝地址，为何被一个神秘人“接管”了？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/766518.sHtML"
+    },
+{
+      "platform": "广西一村庄为11名准大学生办升学礼",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/953459.sHtML"
+    },
+{
+      "platform": "80后集体“盼退休”：不是懒了，是心里那根弦快断了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/680303.sHtML"
+    },
+{
+      "platform": "南京设立“骑士友好中转站”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/775806.sHtML"
+    },
+{
+      "platform": "胡彦斌竟然是1999年出道的",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/046554.sHtML"
+    },
+{
+      "platform": "中国移动将推出全国统一Token套餐；NASA Starling任务实现无GPS自主导航；宇树科技发布“超人”机器人",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/944752.sHtML"
+    },
+    {
+      "platform": "美军演习主力被乌军全歼",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/903380.sHtML"
+    },
+{
+      "platform": "一款抗癌疫苗引爆美股医药股",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/226672.sHtML"
+    },
+{
+      "platform": "我国首次火箭陆地回收全过程",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/220501.sHtML"
+    },
+{
+      "platform": "饰品分享 | 最近的种草&常逛平价店铺",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/943929.sHtML"
+    },
+{
+      "platform": "仅退款的风吹到了医疗界",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/850069.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/295168.sHtML"
+    },
+{
+      "platform": "院内花生被车碾碎 当事人要求道歉",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/917937.sHtML"
+    },
+{
+      "platform": "宇树新品机器人原地跳高2米",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/547440.sHtML"
+    },
+{
+      "platform": "“你在我眼中，我也在你眼中” | 绝对温柔的玫瑰领域《你在我眼中》",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/700239.sHtML"
+    },
+{
+      "platform": "拿下顶级大厂社招offer的经验分享（外企非码农版）",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/908196.sHtML"
+    },
+    {
+      "platform": "老人闯高速身亡子女索赔13万",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/191056.sHtML"
+    },
+{
+      "platform": "微信开放520红包默认属赠与",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/214737.sHtML"
+    },
+{
+      "platform": "朱雀三号副总设计师称，蓝箭提升发射能力的瓶颈是「菜就多练」，如何看待这一回应？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/779089.sHtML"
+    },
+{
+      "platform": "猪猪侠之英雄猪少年",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/536018.sHtML"
+    },
+{
+      "platform": "王者新英雄王维上线体验服",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/007007.sHtML"
+    },
+{
+      "platform": "奥运冠军李雪芮点评安洗莹：没什么进攻，但核心很强、防守好",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/308173.sHtML"
+    },
+{
+      "platform": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/055785.sHtML"
+    },
+{
+      "platform": "真有这么大的NN MM吗？这要如何才能掌控？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/678065.sHtML"
+    },
+{
+      "platform": "老外在中国做臭鳜鱼披萨走红",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/853140.sHtML"
+    },
+{
+      "platform": "外交部：中国公民谨慎赴帕劳旅游",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/898430.sHtML"
+    },
+    {
+      "platform": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/410382.sHtML"
+    },
+{
+      "platform": "【从0开始学习计算机网络】| CA证书、数字签名与中间人攻击：一次完整的安全握手之旅",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/699125.sHtML"
+    },
+{
+      "platform": "WTM何时出现？8个月内的必然",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/341178.sHtML"
+    },
+{
+      "platform": "河道鱼群聚集 有人抓几百斤",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/500678.sHtML"
+    },
+{
+      "platform": "在自己买的小房子里，生活徐徐展开！",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/977290.sHtML"
+    },
+{
+      "platform": "2人涉嫌敲诈蜜雪冰城被刑拘",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/733525.sHtML"
+    },
+{
+      "platform": "【柯基】抽象电影《牛来》片尾曲｜《雨后轻风有香》",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/071980.sHtML"
+    },
+{
+      "platform": "西安东站卫生间唐风指示牌悄然走红，网友：又美又有文化内涵",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/825881.sHtML"
+    },
+{
+      "platform": "知识回顾：Vue 生命周期十道面试题，钩子函数必问",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/521270.sHtML"
+    },
+{
+      "platform": "怀救苦之心、做苍生大医",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/142714.sHtML"
+    },
+    {
+      "platform": "云网智算篇-第七篇：智算服务器架构——Atlas 900T A3 整机剖析",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/024900.sHtML"
+    },
+{
+      "platform": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/890613.sHtML"
+    },
+{
+      "platform": "从聊天应答到业务闭环：AI Agent 落地的实战指南与出海新机遇",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/747602.sHtML"
+    },
+{
+      "platform": "长电科技完成 1.5μm 小孔径 11.3:1 高深宽比 TSV（硅通孔）试制",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/449600.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/219360.sHtML"
+    },
+{
+      "platform": "博主：乌军或用新招打击莫斯科",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/744965.sHtML"
+    },
+{
+      "platform": "“假总编”被聘为真顾问：陕西千阳曾提出全县文化单位为张龙提供工作便利",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/208006.sHtML"
+    },
+{
+      "platform": "高德地图车机版 V9.5.0正式版(含最新离线数据26年8月12日)",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/444228.sHtML"
+    },
+{
+      "platform": "1662年、近代概率论的奠基者帕斯卡逝世",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/337034.sHtML"
+    },
+{
+      "platform": "古巨基54岁生日全家合照曝光，58岁妻子状态年轻，两个儿子像妈妈",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/324667.sHtML"
+    },
+    {
+      "platform": "女子为取空瓶倒掉免费水箱内矿泉水 最多一次倒了24瓶",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/982327.sHtML"
+    },
+{
+      "platform": "OpenAI要输？Anthropic按下万亿IPO快进键，达里奥2%持股夺权",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/363355.sHtML"
+    },
+{
+      "platform": "重大跨境赌博犯罪集团骨干落网",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/948948.sHtML"
+    },
+{
+      "platform": "爱上已婚胡军、为富豪生双胞胎？刘涛近况曝光 资源下跌 8年睡不着",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/718862.sHtML"
+    },
+{
+      "platform": "115 网盘上线 2026 年七夕限定活动：2999 元长期 VIP 套餐回归，但不再附赠存储空间",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/412674.sHtML"
+    },
+{
+      "platform": "“不装”消费，当这届消费者开始卸下社交滤镜",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/758739.sHtML"
+    },
+{
+      "platform": "985大学，扎堆开在县城里",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/127274.sHtML"
+    },
+{
+      "platform": "阿哲综艺收官5100运气封神",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/738600.sHtML"
+    },
+{
+      "platform": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布 对于L3级自动驾驶系统还应具备驾驶人接管能力监测功能",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/546404.sHtML"
+    },
+{
+      "platform": "25年前辽宁一处长被枪击案重启侦查",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/901756.sHtML"
+    },
+    {
+      "platform": "意图刺杀美财长 美一公民获刑6年",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/225678.sHtML"
+    },
+{
+      "platform": "在花大钱之前，先花一笔小钱验证你的决策",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/860889.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/305979.sHtML"
+    },
+{
+      "platform": "日本瞄准无人作战会有哪些变化",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/477899.sHtML"
+    },
+{
+      "platform": "物业费从2.2元涨到5.95元，九成业主还举手赞成：这个小区揭穿了"物业=敌人"的伪命题",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/092408.sHtML"
+    },
+{
+      "platform": "真爱降临时，请为我响起Take my hand 【夏雅】",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/164393.sHtML"
+    },
+{
+      "platform": "龙餐馆演员讲述亲历的伊拉克战争",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/084424.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/707528.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/382822.sHtML"
+    },
+{
+      "platform": "七夕男朋友没有任何表示",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/800795.sHtML"
+    },
+    {
+      "platform": "蓝箭航天通过第二次大考",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/362435.sHtML"
+    },
+{
+      "platform": "独自拥有的那些瞬间",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/824017.sHtML"
+    },
+{
+      "platform": "毛宁分享“中国火箭陆地回收”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/199611.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/109797.sHtML"
+    },
+{
+      "platform": "跨平台开发地图 | 2026年8月",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/711331.sHtML"
+    },
+{
+      "platform": "江苏泰州音乐家协会：撤销现有全部顾问等名誉职务",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/072688.sHtML"
+    },
+{
+      "platform": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/778133.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 公测，对标 Claude Cowork ；长鑫科技市值超越腾讯；OpenAI 年化营收有望翻番达 400 亿美元",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/600462.sHtML"
+    },
+{
+      "platform": "学者：俄土微妙关系面临严峻挑战",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/209707.sHtML"
+    },
+{
+      "platform": "“台风吹落风力发电机的桨叶”不实",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/795873.sHtML"
+    },
+    {
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/435216.sHtML"
+    },
+{
+      "platform": "没想到狗血剧情发生我身上",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/658619.sHtML"
+    },
+{
+      "platform": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/626841.sHtML"
+    },
+{
+      "platform": "宇树上市后，创始人身家超 1300 亿成90后首富，23 名员工成千万富豪，如何看待宇树的造富神话？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/570356.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/617521.sHtML"
+    },
+{
+      "platform": "上海书展 | 当71岁的莫言蹲下和轮椅上的读者合影，文学的美好发生在每一个具体的人身上",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/417652.sHtML"
+    },
+{
+      "platform": "升学宴亲历者称事发后大家立即自救",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/673122.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/187017.sHtML"
+    },
+{
+      "platform": "你能接受视频“暂停广告”吗？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/967012.sHtML"
+    },
+{
+      "platform": "买猫窝到货爬出小猫",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/442512.sHtML"
+    },
+    {
+      "platform": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/676382.sHtML"
+    },
+{
+      "platform": "前端切图仔被 AI 新闻淹死的第 N 天,我用 TRAE Work 定时任务救了自己",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/965895.sHtML"
+    },
+{
+      "platform": "韩国外长谈特朗普突然施压的两大目的",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/772700.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/594906.sHtML"
+    },
+{
+      "platform": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/550544.sHtML"
+    },
+{
+      "platform": "雷军打新宇树科技赚152亿",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/414389.sHtML"
+    },
+{
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/771833.sHtML"
+    },
+{
+      "platform": "著名导演怒喷观众：你们都敢去看《牛来》，为什么不敢来看我的电影？我要排片，我要排片！",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/307402.sHtML"
+    },
+{
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/894476.sHtML"
+    },
+{
+      "platform": "1942年、斯大林格勒大会战在纳粹德国和苏联之间展开",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/784637.sHtML"
+    },
+    {
+      "platform": "世界人形机器人运动会选手测试",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/457286.sHtML"
+    },
+{
+      "platform": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/270535.sHtML"
+    },
+{
+      "platform": "陈新武当选重庆市市长",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/484049.sHtML"
+    },
+{
+      "platform": "爆火 Vue3 手势库：轻松实现手势功能，兼容PC端、移动端",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/667754.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/354334.sHtML"
+    },
+{
+      "platform": "个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/440574.sHtML"
+    },
+{
+      "platform": "为什么七夕朋友圈秀恩爱的变少了",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/060285.sHtML"
+    },
+{
+      "platform": "8K实拍朱雀三号可回收火箭",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/724315.sHtML"
+    },
+{
+      "platform": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/257192.sHtML"
+    },
+{
+      "platform": "第十八个全民健身日，OPPO宣布将推出FatMax 超燃脂模式，助力全民运动健康",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/462641.sHtML"
+    },
+    {
+      "platform": "粉笔炒股巨额亏损超5638万元，与前CEO张小龙“拿8000万元现金炒股单月赚5300万元”炒股炫富言论形成鲜明反差",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/381594.sHtML"
+    },
+{
+      "platform": "红果回应“短剧演员单日片酬不能超过4万”：网传信息不实，演员片酬与平台无关",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/754744.sHtML"
+    },
+{
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/834210.sHtML"
+    },
+{
+      "platform": "问界「童车」上市，华为联合设计；DeepSeek 涨价策略今日实行；大学生用 AI 人脸视频盗刷 5 万元被判刑",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/654171.sHtML"
+    },
+{
+      "platform": "海军新飞行学员坐军舰去上学",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/018549.sHtML"
+    },
+{
+      "platform": "康佳集团原副总裁杨波被查",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/173401.sHtML"
+    },
+{
+      "platform": "一个禁止w7和w10/w11系统更新的小软件3.0正式版，屏蔽w11升级提醒。（已更新）",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/815272.sHtML"
+    },
+{
+      "platform": "为库里冲冠继续补强！美媒支招勇士签3人：押宝西蒙斯+抄底托马斯",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/594321.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/691379.sHtML"
+    },
+{
+      "platform": "“齐刘海狮子”阿杭去世，稀有的白狮又少了一头……",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/619477.sHtML"
+    },
+    {
+      "platform": "千问办公正式上架鸿蒙电脑，企业级Agent深度融入鸿蒙用户工作流",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/981495.sHtML"
+    },
+{
+      "platform": "歌手毕夏首谈丈夫张恒远离世",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/288352.sHtML"
+    },
+{
+      "platform": "这8个饮食习惯，悄悄“吃掉”你的免疫力！最后一个很多人“中招”",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/271605.sHtML"
+    },
+{
+      "platform": "2999 元起！哈浮 VERSA 飞行口袋云台相机问世，终结影像设备选择难题",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/695429.sHtML"
+    },
+{
+      "platform": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/613174.sHtML"
+    },
+{
+      "platform": "孟子义没有给cp让路的义务",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/169810.sHtML"
+    },
+{
+      "platform": "一家三口打赏主播650万后甩锅孩子 ?...",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/120734.sHtML"
+    },
+{
+      "platform": "超强厄尔尼诺将带来什么影响",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/350131.sHtML"
+    },
+{
+      "platform": "多地悄然布局县城大学圈",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/257766.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "http://www.blog.jnlxt.cn/Article/details/679134.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/leekelli976/wjdjq/blob/main/20260824DrzdG.json</br>https://github.com/leekelli976/wjdjq/blob/main/20260824h9aY2.json</br>https://github.com/millercassandra6929/dmgdaus/blob/main/2026082487sDW.json</br>https://github.com/hatfieldtami835/ioimy/blob/main/20260824IF1RQ.json</br>https://github.com/fisheranna28/wabvjmez/blob/main/20260824cvVID.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/gonzaleszachary863/srerpbb/blob/main/20260824yE34K.json</br>https://github.com/morganbruce57/idomaxzy/blob/main/20260824yJFW8.json</br>https://github.com/leekelli976/wjdjq/blob/main/20260824wUqmK.json</br>https://github.com/millercassandra6929/dmgdaus/blob/main/20260824MebJi.json</br>https://github.com/davislisa3/wiqrdj/blob/main/20260824jk5YI.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月24日05时35分23秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
